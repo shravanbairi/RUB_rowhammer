@@ -221,7 +221,7 @@ def main() -> None:
 
     # STEP 7: COMPARE THE RESULTS
     print("\n===== ACCURACY COMPARISON =====")
-    print(f"{'Exit':<12}{'Before':>12}{'After':>12}{'Change':>12}")
+    print(f"{'Exit':<12}{'Before':>12}{'After':>12}")
 
     for i, name in enumerate(["Exit 1", "Exit 2", "Exit 3"]):
     
